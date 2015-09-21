@@ -1,2 +1,3 @@
 # kicad_teensy
-kicad libraries for teensy
+
+Teensy library for kicad.
