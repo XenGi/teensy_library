@@ -11,6 +11,7 @@ This repo includes component libraries and footprints of the following Teensy ve
   - Teensy 3.1
   - Teensy 3.2
   - Teensy 3.5
+  - Teensy LC
 
 TODO
 ----
