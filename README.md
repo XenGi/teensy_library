@@ -1,7 +1,7 @@
-Teensy library and footprints for KiCAD
+Teensy library for KiCAD
 =======================================
 
-This repo includes component libraries and footprints for the following Teensy versions:
+This repo includes symbols and footprints for the following Teensy versions:
 
   - Teensy 1.0
   - Teensy++ 1.0
