@@ -1,4 +1,4 @@
-Teensy library for KiCAD
+Teensy symbol library for KiCAD
 =======================================
 
 This repo includes KiCAD symbols for the following Teensy versions:
