@@ -1,7 +1,7 @@
-Teensy library for KiCAD
+Teensy symbol library for KiCAD
 =======================================
 
-This repo includes symbols for the following Teensy versions:
+This repo includes KiCAD symbols for the following Teensy versions:
 
   - Teensy 1.0
   - Teensy++ 1.0
@@ -14,5 +14,6 @@ This repo includes symbols for the following Teensy versions:
   - Teensy 3.6
   - Teensy 4.0
   - Teensy LC
+  - Teensy 4.1 (Beta)
 
 For footprints look here: https://github.com/XenGi/teensy.pretty
