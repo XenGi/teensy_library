@@ -13,8 +13,10 @@ This repo includes KiCAD symbols for the following Teensy versions:
   - Teensy 3.5
   - Teensy 3.6
   - Teensy 4.0
+  - Teensy 4.1
   - Teensy LC
-  - Teensy 4.1 (Beta)
+
+
+
 
 For footprints look here: https://github.com/XenGi/teensy.pretty
-or https://github.com/blackketter/teensy.pretty
