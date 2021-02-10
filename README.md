@@ -16,7 +16,7 @@ This repo includes KiCAD symbols for the following Teensy versions:
   - Teensy 4.1
   - Teensy LC
 
-
+There are two symbols for Teensy 3.5/3.6: one that includes the through-hole connections on Teensy and one that adds all of the SMT connections on the bottom of the Teensy.
 
 
 For footprints look here: https://github.com/XenGi/teensy.pretty
