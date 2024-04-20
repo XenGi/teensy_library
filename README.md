@@ -1,4 +1,4 @@
-![maintenance](https://img.shields.io/maintenance/yes/2023)
+![maintenance](https://img.shields.io/maintenance/yes/2024)
 [![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/xengi/donate)
 
 
